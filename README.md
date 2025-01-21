@@ -7,4 +7,4 @@ owned by @6crucifed
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=6crucified)
+![](https://komarev.com/ghpvc/?username=crucified-lol)
