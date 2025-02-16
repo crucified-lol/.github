@@ -7,4 +7,3 @@ owned by @6crucifed
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=raycast)
